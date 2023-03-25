@@ -6,6 +6,16 @@ public class Main {
 //  System.out.println(a.endsWith("na")); Возвращает boolean значение. Проверяет наличие вами данной строки в конце
 //  System.out.println(a.startsWith("Mal")); Тоже возвращает boolean значение. Проверяет наличие данной вами строки в начале
    //     System.out.println(a.indexOf('a')); // Возвращает индекс вам данного символа
+//        static void varargs( String ... varargs){
+//            for (String vararg : varargs) {
+//                System.out.print(vararg+" ");
+//            }
+//
+//            System.out.println();
+//            for (int i = 2; i < varargs.length; i++) {
+//                System.out.print(varargs[i]+" ");
+//            }
+
 
 
 //    static void varargs( int[] age, String... varargs) {
